@@ -1,3 +1,12 @@
+**👋  |  Hey there, I'm John Doe! Welcome to my GitHub playground where I bring ideas to life through code.**
+
+### My Projects:
+- **Wastronout:** A simple weather application built with React.js.
+
+### Worked In:
+- **ABC Tech Solutions:** Software Engineer - Developed scalable web applications using Python and Django.
+- **XYZ Startup:** Full Stack Developer - Led front-end development for client projects, focusing on React.js and Vue.js.
+
 ### **Social**
 
 [![Disckrd](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jsbdwjdb) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tyowk.wk) [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tyowk) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tyowk)
@@ -9,13 +18,13 @@
 
 
 
-### **Github Profile**
+### **Stats**
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=tyowk&theme=blue-green)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyowk&theme=blue-green)
 
-
+</br>
 
 ### **Reach Me**
 
