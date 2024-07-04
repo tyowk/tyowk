@@ -11,11 +11,7 @@
 <br>
 <h2 align="center">💼 My Projects</h2>
 
-- **Nayanou:**
-  - *A multi-purpose discord bot built on discord.js*
-
-- **NouJS**
-  - *A discord.js framework*
+- **~**
 <br>
 <h2 align="center">🔥 Social</h2>
 
