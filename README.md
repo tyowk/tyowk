@@ -1,14 +1,6 @@
 <b><p align="center">👋    Hey there, I'm Tyo! Welcome to my GitHub playground where I bring ideas to life through code.</p></b>
 <br>
 <br>
-<h2 align="center">🌳 About Me</h2>
-
-- **About Myself:**
-  - *My name is Bagas Prastio, I am 17 years old and I was born on March 05.*
-
-- **Where I Live:**
-  - *Now I live in Lampung, Indonesia.*
-<br>
 <h2 align="center">💼 My Projects</h2>
 
 - **~**
