@@ -1,4 +1,4 @@
-<b><p align="center">👋    Hey there, I'm Tyo! Welcome to my GitHub playground, where I bring ideas to life through code.</p></b>
+<b><p align="center">👋    Hey there, I'm Tyo! Welcome to my GitHub playground, where I bring ideas to life through codes.</p></b>
 <br>
 <br>
 <h2 align="center">💼 My Projects</h2>
