@@ -3,7 +3,7 @@
 <br>
 <h2 align="center">💼 My Projects</h2>
 
-- **~**
+- **[Disbot](https://github.com/tyowk/disbot)**
 <br>
 <h2 align="center">🔥 Social</h2>
 
