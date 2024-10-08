@@ -26,4 +26,4 @@
 <br>
 <br>
 <br>
-<strong><p align="center">Made with ♥️ by Tyowk</p></strong>
+<strong><p align="center">Made with ♥️ by Tyowk<br>NouJS Development</p></strong>
