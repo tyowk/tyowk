@@ -3,7 +3,7 @@
 <br>
 <h2 align="center">💼 My Projects</h2>
 
-- **[API WEB](https://noujs.my.id/api)** *[ project paused]*
+- **[API WEB](https://noujs.my.id/api)** *[ project paused ]*
 <br>
 <h2 align="center">🔥 Social</h2>
 
