@@ -3,8 +3,8 @@
 <br>
 <h2 align="center">💼 My Projects</h2>
 
-- **[DISBOT](https://github.com/tyowk/disbot)** *[ in progress 19% ]*
-- **[API WEB](https://noujs.my.id/api)** *[ in progress 5% ]*
+- **[DISBOT](https://github.com/tyowk/disbot)** *[ ⏸️ ]*
+- **[API WEB](https://noujs.my.id/api)** *[ ⏸️ ]*
 <br>
 <h2 align="center">🔥 Social</h2>
 
