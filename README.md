@@ -1,6 +1,8 @@
-<b><p align="center">👋    Hey there, I'm Tyo! Welcome to my GitHub playground, where I bring ideas to life through codes.</p></b>
+<div align="center">
+<b><p>👋    Hey there, I'm Tyo! Welcome to my GitHub playground, where I bring ideas to life through codes.</p></b>
 <br>
 <br>
+</div>
 <h2 align="center">💼 My Projects</h2>
 
 - *Nothing to see here!*
@@ -21,9 +23,11 @@
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=tyowk&theme=dark)](#)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyowk&theme=dark&layout=compact)](#)
+<div align="center">
 <br>
 <br>
 <br>
 <br>
 <br>
-<strong><p align="center">Made with ♥️ by Tyowk<br>NouJS Development</p></strong>
+<strong><p>Made with ♥️ by Tyowk<br>Last updated Oct 15, 2024</strong>
+</div>
