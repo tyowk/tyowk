@@ -3,7 +3,8 @@
 <br>
 <h2 align="center">💼 My Projects</h2>
 
-- *nothing to see here!*
+- *Nothing to see here!*
+- *See my pinned repositories!*
 <br>
 <h2 align="center">🔥 Social</h2>
 
