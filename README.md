@@ -20,9 +20,9 @@
 <br>
 <h2 align="center">🏓 Statistics</h2>
 
-[![Profile Stats](https://github-readme-stats.vercel.app/api?username=tyowk&theme=dark)](#)
+[![Profile Stats](https://github-readme-stats.vercel.app/api?username=tyowk&theme=blue-green)](#)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyowk&theme=dark&layout=compact)](#)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyowk&theme=blue-green&layout=compact)](#)
 <div align="center">
 <br>
 <br>
