@@ -27,5 +27,5 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyowk&theme=dark&layout=compact)](#)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1009314804525178920?bg=2f2f2f&idleMessage=just%20doin%20me&theme=dark)](https://discord.com/users/1009314804525178920)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1009314804525178920?showDisplayName=true&animated=true&hideProfile=false&theme=dark&ignoreAppId=&idleMessage=beep%20boop%20are%20you%20a%20robot%3F)](https://discord.com/users/1009314804525178920)
 </div>
