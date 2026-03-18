@@ -1,7 +1,7 @@
 <div align="center">
   <b>
     <p>
-      🌱  Hey there, I'm Tyo! Welcome to my GitHub playground,<br/>where I bring ideas to life through codes.
+      🌱  Hey there, I'm Tyo!<br>Welcome to my GitHub playground,<br/>where I bring ideas to life through codes.
     </p>
   </b>
   <br/>
