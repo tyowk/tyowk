@@ -10,7 +10,7 @@
   <br/>
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,mysql,html,css,nodejs,bash,redis,mongodb,npm,netlify,vercel,discordjs,github,discord,java,golang,bun,yarn,deno&perline=5">
+  <img src="https://skillicons.dev/icons?i=js,ts,mysql,html,css,nodejs,bash,redis,mongodb,npm,netlify,vercel,discordjs,github,discord,java,golang,bun,yarn,deno,sqlite,next,git,express,postman&perline=5">
   <br/>
   <br/>
   <br/>
