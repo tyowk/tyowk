@@ -15,7 +15,7 @@
   <br/>
   <br/>
   
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tyowk&show_icons=true&hide_border=true&theme=github_dark)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tyowk&hide_border=true&theme=github_dark)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tyowk&hide_border=true&layout=compact&theme=github_dark)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tyowk&show_icons=true&hide_border=true&theme=github_dark&uwu=true)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tyowk&hide_border=true&theme=github_dark&uwu=true)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tyowk&hide_border=true&layout=compact&theme=github_dark&uwu=true)
 </div>
