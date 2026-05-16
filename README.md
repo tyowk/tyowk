@@ -18,5 +18,3 @@
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tyowk&show_icons=true&hide_border=true&theme=github_dark&uwu=truefy)
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tyowk&hide_border=true&layout=compact&theme=github_dark&uwu=truefy)
 </div>
-
-[email](mailto:contact@disform.my.id)
