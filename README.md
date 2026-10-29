@@ -31,20 +31,14 @@
   <br/>
   <h3>GitHub Stats</h3>
   <br/>
-
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=tyowk&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tyowk&hide_border=true&layout=compact&theme=github_dark&langs_count=6" alt="Top Languages">
-      </td>
-    </tr>
-  </table>
-  <br/>
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyowk&theme=dark&hide_border=true" alt="GitHub Streak">
+  </div>
+  <div>
+    <img src="https://github-stats-extended.vercel.app/api?username=tyowk&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark_github" alt="GitHub Stats">
+  </div>
+  <div>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=tyowk&layout=compact&langs_count=20&disable_animations=true&theme=dark_github" alt="Top Languages">
   </div>
   <br/>
   <br/>
