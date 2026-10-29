@@ -13,6 +13,9 @@
     <a href="https://discord.com/users/1009314804525178920">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
+    <a href="https://discord.com/invite/idn">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=Indonesian&color=ff0000" alt="Discord">
+    </a>
   </p>
   <br/>
   <div>
